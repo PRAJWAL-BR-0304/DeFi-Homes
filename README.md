@@ -2,7 +2,7 @@ Real Estate Marketplace
 
 # PropertyBid - Real Estate Bidding Platform 🏠
 
-<img width="1000" height="565" alt="fig12" src="https://github.com/user-attachments/assets/3179c4cb-1a7c-4af7-9eb0-550a11598bfe" />
+<img width="1010" height="565" alt="fig12" src="https://github.com/user-attachments/assets/3179c4cb-1a7c-4af7-9eb0-550a11598bfe" />
 
 ![fig1](https://github.com/user-attachments/assets/3100e575-8003-41da-97a5-8763af5b8f28)
 
