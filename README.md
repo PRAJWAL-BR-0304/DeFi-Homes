@@ -83,8 +83,8 @@ A modern, blockchain-powered real estate bidding platform built with React, Supa
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/propertybid.git
-   cd propertybid
+   git clone https://github.com/yourusername/DeFi-Homes.git
+   cd DeFi-Homes
    ```
 
 2. Install dependencies:
